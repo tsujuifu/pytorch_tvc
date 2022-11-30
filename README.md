@@ -10,7 +10,7 @@ This code is implemented under **Python 3.9**, [Torch 1.11](https://pypi.org/pro
 We simplify the implementation and adopt [VideoGPT](https://github.com/wilson1yan/VideoGPT) in our MMVG.
 
 ## Usage
-Put [ckpt](https://drive.google.com/drive/folders/1xkb8-j_Rtjth5e0c5akO2hMu-xDnARv7) in [./\_data](https://github.com/tsujuifu/pytorch_tvc/tree/main/_data)
+Put [ckpt](https://drive.google.com/drive/folders/1xkb8-j_Rtjth5e0c5akO2hMu-xDnARv7) in [./\_ckpt](https://github.com/tsujuifu/pytorch_tvc/tree/main/_ckpt)
 ### Inference
 ```
 inference.ipynb
