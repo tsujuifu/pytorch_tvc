@@ -4,7 +4,7 @@ A PyTorch implementation of TVC
 ## Requirements
 This code is implemented under **Python 3.9**, [Torch 1.11](https://pypi.org/project/torch/1.11.0), [Torchvision 0.12](https://pypi.org/project/torchvision/0.12.0), [TorchMetrics 0.6](https://pypi.org/project/torchmetrics/0.6.0), and [Lightning 1.3](https://pypi.org/project/pytorch-lightning/1.3.0). <br>
 + [OmegaConf](https://pypi.org/project/omegaconf), [tqdm](https://pypi.org/project/tqdm)
-+ [CLIP](https://github.com/openai/CLIP), [transformers](https://pypi.org/project/transformers)
++ [CLIP](https://github.com/openai/CLIP), [Transformers](https://pypi.org/project/transformers)
 + [Taming](https://github.com/CompVis/taming-transformers)
 
 We simplify the implementation and adopt [VideoGPT](https://github.com/wilson1yan/VideoGPT) in our MMVG.
