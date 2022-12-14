@@ -1,4 +1,4 @@
-# pytorch_tvc
+# Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation
 A PyTorch implementation of TVC
 
 ## Requirements
