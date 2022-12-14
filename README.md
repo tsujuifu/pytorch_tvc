@@ -1,5 +1,5 @@
 # Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation
-A PyTorch implementation of TVC
+A PyTorch implementation of [TVC](https://tsujuifu.github.io/pubs/arxiv_tvc.pdf)
 
 ## Requirements
 This code is implemented under **Python 3.9**, [Torch 1.11](https://pypi.org/project/torch/1.11.0), [Torchvision 0.12](https://pypi.org/project/torchvision/0.12.0), [TorchMetrics 0.6](https://pypi.org/project/torchmetrics/0.6.0), and [Lightning 1.3](https://pypi.org/project/pytorch-lightning/1.3.0). <br>
