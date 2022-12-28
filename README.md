@@ -18,11 +18,17 @@ This code is implemented under **Python 3.9**, [Torch 1.11](https://pypi.org/pro
 + [CLIP](https://github.com/openai/CLIP), [Transformers](https://pypi.org/project/transformers)
 + [Taming](https://github.com/CompVis/taming-transformers)
 
-We simplify the implementation and adopt [VideoGPT](https://github.com/wilson1yan/VideoGPT) in our MMVG.
+Since there is no obvious performance gap, we simplify the implementation and adopt [VideoGPT](https://github.com/wilson1yan/VideoGPT) in our MMVG.
 
 ## Usage
-Put [ckpt](https://drive.google.com/drive/folders/1xkb8-j_Rtjth5e0c5akO2hMu-xDnARv7) in [./\_ckpt](https://github.com/tsujuifu/pytorch_tvc/tree/main/_ckpt).
+### Dataset
+Put [dataset](https://drive.google.com/drive/u/2/folders/1t8qxZw96xaPtOe8g7akcfbV_-QUswhsb) in [./\_data](https://github.com/tsujuifu/pytorch_tvc/tree/main/_data).
+```
+show_data.ipynb
+```
+
 ### Inference
+Put [ckpt](https://drive.google.com/drive/folders/1xkb8-j_Rtjth5e0c5akO2hMu-xDnARv7) in [./\_ckpt](https://github.com/tsujuifu/pytorch_tvc/tree/main/_ckpt).
 ```
 inference.ipynb
 ```
