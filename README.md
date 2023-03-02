@@ -35,11 +35,11 @@ inference.ipynb
 
 ## Citation
 ```
-@inproceedings{fu2022tvc, 
+@inproceedings{fu2023tvc, 
   author = {Tsu-Jui Fu and Licheng Yu and Ning Zhang and Cheng-Yang Fu and Jong-Chyi Su and William Yang Wang and Sean Bell}, 
   title = {Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation}, 
-  booktitle = {arXiv:2211.12824}, 
-  year = {2022}
+  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  year = {2023}
 }
 ```
 
