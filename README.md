@@ -1,6 +1,8 @@
 # [CVPR'23] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation
 A PyTorch implementation of [TVC](https://tsujuifu.github.io/pubs/cvpr23_tvc.pdf)
 
+[Paper](https://tsujuifu.github.io/pubs/cvpr23_tvc.pdf) | [Project](https://tvc-mmvg.github.io)
+
 <img src='_imgs/intro.jpg' width='60%' />
 
 ## Overview
