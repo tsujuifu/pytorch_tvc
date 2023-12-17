@@ -8,7 +8,8 @@ A PyTorch implementation of [TVC](https://tsujuifu.github.io/pubs/cvpr23_tvc.pdf
 ## Overview
 TVC is an implementation of <br>
 "[Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation](https://tsujuifu.github.io/pubs/cvpr23_tvc.pdf)" <br>
-[Tsu-Jui Fu](https://scholar.google.com/citations?user=7QRDcC0AAAAJ), [Licheng Yu](https://scholar.google.com/citations?user=pwpweRQAAAAJ), [Ning Zhang](https://scholar.google.com/citations?user=DplAah0AAAAJ), [Cheng-Yang Fu](https://scholar.google.com/citations?user=IYDJuOAAAAAJ), [Jong-Chyi Su](https://scholar.google.com/citations?user=jeKOwvsAAAAJ), [William Yang Wang](https://scholar.google.com/citations?user=gf8Ms_8AAAAJ), and [Sean Bell](https://scholar.google.com/citations?user=xY1GdVgAAAAJ)
+[Tsu-Jui Fu](https://scholar.google.com/citations?user=7QRDcC0AAAAJ), [Licheng Yu](https://scholar.google.com/citations?user=pwpweRQAAAAJ), [Ning Zhang](https://scholar.google.com/citations?user=DplAah0AAAAJ), [Cheng-Yang Fu](https://scholar.google.com/citations?user=IYDJuOAAAAAJ), [Jong-Chyi Su](https://scholar.google.com/citations?user=jeKOwvsAAAAJ), [William Yang Wang](https://scholar.google.com/citations?user=gf8Ms_8AAAAJ), and [Sean Bell](https://scholar.google.com/citations?user=xY1GdVgAAAAJ) <br>
+in Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023
 
 <img src='_imgs/mmvg.jpg' width='80%' />
 
